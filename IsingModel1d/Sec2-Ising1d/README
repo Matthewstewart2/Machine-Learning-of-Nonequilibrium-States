@@ -1,0 +1,13 @@
+1D ising model w periodic boundary conditions
+
+the system is eveolved by random attempts to flip spins until the system convereges to equilibrium near a free energy minimum. This is done using Monte Carlo steps (i.e. random spin flips) and accepting the attempts using Metropolis criterion
+
+Open Ising1d.c++ w text editor and explore
+
+to run type
+
+./bash.run.sh
+
+from terminal.
+
+Note. You need gnuplot installed to generate the movie gif.
